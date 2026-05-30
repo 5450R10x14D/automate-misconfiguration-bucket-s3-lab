@@ -1,0 +1,6 @@
+base64: dm5te0RldGVjdGFyX0NpZnJhZG9fRmxhZ30=
+ROT47: G?>Ls6E64E2C0r:7C25@0u=28N
+ROT13: iaz{Qrgrpgne_Pvsenqb_Synt}
+Atbash: emn{Wvgvxgzi_Xruizwl_Uozt}
+bcrypt: $2a$10$NiOEGYt.Rsl2hL747K7we.F63jnMU5xAqnwtihfzIJi9C7tKn/p4C
+md5: cacf6235eed5826999c6de4411378029

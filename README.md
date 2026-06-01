@@ -51,7 +51,7 @@ Cambiar el nombre de usuario "default" por el nombre de usuario IAM creado anter
 verifique la conexión con aws sts get-caller-identity.
 
 ```bash
-sts get-caller-identity
+aws sts get-caller-identity
 ```
 
 ---

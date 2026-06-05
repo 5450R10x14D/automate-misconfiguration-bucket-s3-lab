@@ -1,7 +1,7 @@
-# exploit_misconfiguration_bucket_s3_lab
+# misconfiguration_bucket_s3_lab
 Script PoC en python3 que automatiza la explotación de una máquina de vulnmachine.com, una plataforma de aprendizaje de ciberseguridad
 
-# Exploit PoC: VulnMachines S3 Misconfiguration
+# PoC: VulnMachines S3 Misconfiguration
 Automatizar la explotación de una mala configuración en un bucket de Amazon S3 dentro del laboratorio de **[misconfiguration bucket]**, permitiendo el acceso inicial al entorno.
 
 ---
@@ -59,7 +59,7 @@ aws sts get-caller-identity
 ## Modo de Uso
 
 ```bash
-python3 PoC_exploit.py
+python3 PoC_automate.py
 ```
 
 
